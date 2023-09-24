@@ -4,17 +4,17 @@
 	 */
 	class DB {
 
-		/*DATA ONLINE
+		//DATA ONLINE
 		const DB_HOST = "localhost";
-		const DB_NAME = "c1956361c_sge";
-		const DB_USER = "c1956361c_ast";
-		const DB_PASSWORD = "+Rvd4w6%tT@!";*/
+		const DB_NAME = "id21265902_crud";
+		const DB_USER = "id21265902_isaacwinner";
+		const DB_PASSWORD = "Slktplogin1+";
 
-		//DATA IN OFFLINE
+		/*DATA IN OFFLINE
 		const DB_HOST = "localhost";
 		const DB_NAME = "crud";
 		const DB_USER = "root";
-		const DB_PASSWORD = "";
+		const DB_PASSWORD = "";*/
 
 		private static $_instance;
 

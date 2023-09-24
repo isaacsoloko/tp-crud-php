@@ -42,7 +42,7 @@
                                     <?= $user->getEmail(); ?>
                                 </td>
                                 <td>
-                                    <a href="" class="edit-btn">Modifier</a>
+                                    <a class="edit-btn">Modifier</a>
                                 </td>
                                 <td>
                                     <a href="src/controller/deleteUserController.php?id=<?= $user->getId(); ?>" 
